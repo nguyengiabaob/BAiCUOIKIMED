@@ -1,0 +1,135 @@
+#container_logo
+{
+    margin-left: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+
+   
+}
+.slideshow
+{
+    overflow: hidden;
+    margin: 0 auto;
+    width: 1519px;
+  
+}
+
+.img_slide
+{
+    white-space: nowrap;
+    transition: ease 1000ms;
+} 
+
+
+.slide
+{
+     display: inline-block;
+}
+.carousel-indicators li
+{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+.carousel-indicators .active
+{
+background-color: #7cb75d;
+}
+#xemthem
+{
+    background-color: #0a662e;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 15px;
+    
+    color: #FFF;
+    border-radius: 25px;
+
+   
+
+}
+#xemthem:hover
+{
+    background-color: #fff;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 15px;
+   
+    color: #0a662e;
+    border-radius: 25px;
+    border: 1px solid #0a662e;
+
+   
+
+}
+.bookmeeting
+{
+    background-color: #0a662e;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 15px;
+   
+    color: black;
+    border-radius: 25px;
+}
+.bookmeeting:hover
+{
+    background-color: #0a662e;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 15px;
+    
+    color: #0a662e;
+    border-radius: 25px;
+}
+
+.buttoncart
+{
+    border: 1px solid #0a662e;
+    border-radius: 25px;
+    background-color: #0a662e;
+    color: #FFF;
+}
+.buttoncart:hover
+{
+    border: 1px solid #0a662e;
+    background-color: #FFF;
+    color: black;
+    border-radius: 25px;
+}
+.buttonbuying:hover
+{
+    border: 1px solid red;
+    background-color: #FFF;
+    color: black;
+    border-radius: 25px;
+
+}
+.buttonbuying
+{
+    background-color: red;
+    color: #FFF;
+    border: 1px solid red;
+    border-radius: 25px;
+}
+.showproduct
+{
+display:flex ;
+  margin-left: 25px;
+  border: 0.05px solid #0a662e;
+  margin-bottom: 25px;
+  align-items: flex-end;
+ 
+}
+
+

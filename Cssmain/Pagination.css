@@ -1,0 +1,42 @@
+.buttontrans
+{
+  border: solid 1px #f7f8fb; 
+  width: 25px; 
+  height:25px; 
+  border-radius: 50%; 
+  padding: 0px; 
+  margin: 0px 2px; 
+  background-color: #f7f8fb; 
+  text-decoration: none; 
+  text-align: center;
+  font-size: 14px;
+  color: #000;
+}
+.buttontrans:hover
+{
+  border: solid 1px #0a662e; 
+  width: 25px; 
+  height:25px; 
+  border-radius: 50%; 
+  padding: 0px; 
+  margin: 0px 2px; 
+  background-color: #0a662e; 
+  text-decoration: none; 
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+}
+.buttontrans_pick
+{
+  border: solid 1px #0a662e; 
+  width: 25px; 
+  height:25px; 
+  border-radius: 50%; 
+  padding: 0px; 
+  margin: 0px 2px; 
+  background-color: #0a662e; 
+  text-decoration: none; 
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+}
